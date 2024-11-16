@@ -3,5 +3,8 @@
   "item.tutorialmod.raw_pink_garnet": "Rauwe Roze Granaat",
 
   "block.tutorialmod.pink_garnet_block": "Roze Granaatblok",
-  "block.tutorialmod.raw_pink_garnet_block": "Roze Rauwe Granaatblock"
+  "block.tutorialmod.raw_pink_garnet_block": "Roze Rauwe Granaatblock",
+
+  "itemgroup.tutorialmod.pink_garnet_items": "Roze Granaat Spullen",
+  "itemgroup.tutorialmod.pink_garnet_blocks": "Roze Granaat Blokken"
 }
